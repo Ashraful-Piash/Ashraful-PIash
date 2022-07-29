@@ -1,16 +1,30 @@
-### Hi there 👋
+![Software Developer](https://media-exp1.licdn.com/dms/image/C5603AQF1ArelhooyPg/profile-displayphoto-shrink_400_400/0/1658416984938?e=1664409600&v=beta&t=O33MoZALtEZGS4tW88sniN4X93bDv95T-8hriK9GwFE)
 
-<!--
-**Ashraful-Piash/Ashraful-PIash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there 👋, I'm Ashraful Haque Piash
+#### Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I am a Bachelor of Science in Computer Science and Engineering from Chittagong University of Engineering & Technology. I have good knowledge of programming languages like Java, C and algorithms, the data structure, object-oriented programming. I have a good ability to learn quickly coupled with innovative ideas for problem-solving, ability to work in a team with strong communication skills, hardworking and sincere towards work with an ability to take directions.
+
+Skills: JAVA / SPRING BOOT / KOTLIN / ANDROID DEVELOPMENT / HTML / CSS
+
+- 🔭 I’m currently working on Red.Digital of Robi Axiata Limited 
+- 🌱 I’m currently learning Java Spring Boot 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ashraful-Piash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashraful-haque-piash/)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ashraful-Piash)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraful-Piash)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashraful-Piash&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ashraful-Piash)  
+
+![GitHub metrics](https://metrics.lecoq.io/Ashraful-Piash)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ashraful-Piash)  
+
+![Profile views](https://gpvc.arturio.dev/Ashraful-Piash)  
