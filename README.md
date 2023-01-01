@@ -5,7 +5,7 @@
 #### Software Developer
 
 
-I am a Bachelor of Science in Computer Science and Engineering from Chittagong University of Engineering & Technology. I have good knowledge of programming languages like Java, C and algorithms, the data structure, object-oriented programming. I have a good ability to learn quickly coupled with innovative ideas for problem-solving, ability to work in a team with strong communication skills, hardworking and sincere towards work with an ability to take directions.
+I am from Chittagong University of Engineering & Technology. I have good knowledge of programming languages like Java, C and algorithms, the data structure, object-oriented programming. I have a good ability to learn quickly coupled with innovative ideas for problem-solving, ability to work in a team with strong communication skills, hardworking and sincere towards work with an ability to take directions.
 
 Skills: JAVA / SPRING BOOT / KOTLIN / ANDROID DEVELOPMENT / HTML / CSS
 
