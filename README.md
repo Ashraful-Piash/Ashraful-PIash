@@ -5,7 +5,7 @@
 #### Software Developer
 
 
-I am from Chittagong University of Engineering & Technology. I have good knowledge of programming languages like Java, C and algorithms, the data structure, object-oriented programming. I have a good ability to learn quickly coupled with innovative ideas for problem-solving, ability to work in a team with strong communication skills, hardworking and sincere towards work with an ability to take directions.
+As a software developer hailing from Chittagong University of Engineering & Technology, I possess a strong command over programming languages such as Java and C, as well as a deep understanding of algorithms, data structures, and object-oriented programming. My passion for problem-solving and knack for quick learning, coupled with innovative ideas, enable me to deliver efficient solutions to complex challenges. My excellent communication skills, coupled with a team-oriented approach, make me an ideal collaborator for any project. My dedication and hardworking nature, combined with my ability to take directions, ensure that I am always focused on delivering results.
 
 Skills: JAVA / SPRING BOOT / KOTLIN / ANDROID DEVELOPMENT / HTML / CSS
 
