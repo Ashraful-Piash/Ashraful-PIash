@@ -9,7 +9,7 @@ As a software developer hailing from Chittagong University of Engineering & Tech
 
 Skills: JAVA / SPRING BOOT / KOTLIN / ANDROID DEVELOPMENT / HTML / CSS
 
-- 🔭 I’m currently working on Red.Digital of Robi Axiata Limited 
+- 🔭 I’m currently working at Brain Station-23 PLC
 - 🌱 I’m currently learning Java Spring Boot 
 
 
