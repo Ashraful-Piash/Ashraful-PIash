@@ -5,7 +5,7 @@
 #### Software Engineer
 
 
-Skills: JAVA / SPRING BOOT / KOTLIN / ANDROID DEVELOPMENT / HTML / CSS
+Skills: JAVA / SPRING BOOT / Microservices / KOTLIN / ANDROID DEVELOPMENT 
 
 - 🔭 I’m currently working at Brain Station-23 PLC
 
